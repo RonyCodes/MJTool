@@ -1,8 +1,10 @@
+--------------------------------
 # MJTSPLOIT
 This simple tool coded by Mr MJT
-
-
+-------------------------------
 By this tool you can:
+---------------------
+
 generate simple malwares..
 
 check open ports..
@@ -14,8 +16,9 @@ your country whether in the terminal..
 the world map in the terminal..
 
 control your android phone via USB(you can use keyboard and mouse to control the phone)..
+
 ---------------------
-installing the tool:
+how to install the tool:
 --------------------
 TERMUX:
 
@@ -23,11 +26,11 @@ pkg install bash
 
 pkg install git
 
-git clone
+git clone https://github.com/Mr6MJT/MJTSPLOIT
 
 linux:
 
-git clone
+git clone https://github.com/Mr6MJT/MJTSPLOIT 
 
 don't forget to follow my account :)
 
