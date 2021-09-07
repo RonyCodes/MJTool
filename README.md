@@ -11,6 +11,8 @@ check open ports..
 
 show the ip of DNS..
 
+Gather information about websites by DNS..
+
 your country whether in the terminal..
 
 the world map in the terminal..
