@@ -22,7 +22,10 @@ install the metasploit tool in termux
 ---------------------
 how to install the tool:
 --------------------
+
+-------
 TERMUX:
+-------
 
 pkg install bash
 
@@ -30,10 +33,22 @@ pkg install git
 
 git clone https://github.com/Mr6MJT/MJTSPLOIT
 
+cd MJTSPLOIT
+
+bash start.sh
+
+------
 linux:
+------
 
 git clone https://github.com/Mr6MJT/MJTSPLOIT 
 
+cd MJTSPLOIT
+
+bash start.sh
+
+------------------------------------
 don't forget to follow my account :)
 
 good luck all..
+-------------------------------------
