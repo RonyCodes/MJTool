@@ -17,6 +17,8 @@ the world map in the terminal..
 
 control your android phone via USB(you can use keyboard and mouse to control the phone)..
 
+install the metasploit tool in termux
+
 ---------------------
 how to install the tool:
 --------------------
