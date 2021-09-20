@@ -50,7 +50,6 @@ cd MJTSPLOIT
 bash start.sh
 
 ------------------------------------
-don't forget to follow my account :)
 
 good luck all..
 -------------------------------------
