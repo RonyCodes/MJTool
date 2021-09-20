@@ -39,7 +39,7 @@ function exitt(){
    echo -e "\033[0;37m                            ..:::::::::.."
    echo ""
    echo -e "\033[0;37m                    Thanks For Using MJTSPLOIT tool.."
-   echo -e "\033[0;37m                   Dont Forget to follow me on github"
+   echo -e "\033[0;37m                          follow me on github"
    echo -e "\033[0;37m                       https://github.com/Mr6MJT"
    echo ""
    exit
