@@ -1,6 +1,6 @@
 --------------------------------
-# MJTSPLOIT
-This simple tool coded by Mr MJT
+# MJTool
+This simple tool coded by Mr MJT |7 september 2021|
 -------------------------------
 By this tool you can:
 ---------------------
@@ -35,7 +35,7 @@ pkg install git
 
 git clone https://github.com/Mr6MJT/MJTSPLOIT
 
-cd MJTSPLOIT
+cd MJTool
 
 bash start.sh
 
