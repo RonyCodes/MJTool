@@ -45,7 +45,7 @@ linux:
 
 git clone https://github.com/Mr6MJT/MJTSPLOIT 
 
-cd MJTSPLOIT
+cd MJTool
 
 bash start.sh
 
